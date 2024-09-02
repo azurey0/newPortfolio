@@ -1,5 +1,6 @@
 User-agent: Googlebot
 User-agent: AdsBot-Google
+User-agent: LinkedInBot
 Disallow: /
 User-agent: *
 Disallow: /
